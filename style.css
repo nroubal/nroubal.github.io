@@ -4,8 +4,8 @@ body {
 
 .center { 
 	margin: auto;
-	width: 60%;
-	font-family: "Courier New", Helvetica;
+	width: 40%;
+	font-family: "Courier New";
 	list-style-position: inside; 
 }
 
