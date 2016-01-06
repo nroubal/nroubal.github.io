@@ -1,17 +1,11 @@
 .center { 
+	margin: auto;
+	width: 60%;
 	font-family: "Courier New", Helvetica;
 	list-style-position: inside; 
 }
 
-h3 {
-	text-align: center;
-}
-
-li {
-	text-align: center;
-}
-
-a {
+li a {
 	color: black;
 	text-decoration: none;
 }
