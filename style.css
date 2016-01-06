@@ -1,12 +1,12 @@
-body {
-	text-align: center;
+div {
+  display: table;
+  margin: auto;
+  width: 0;
+  font-family: "Courier New";
 }
 
-.center { 
-	margin: auto;
-	width: 40%;
-	font-family: "Courier New";
-	list-style-position: inside; 
+div ol {
+  list-style-position: inside; 
 }
 
 li a {
