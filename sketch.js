@@ -31,7 +31,7 @@ function draw() {
   stroke(255);
   textAlign(CENTER);
   textSize(width * 0.03);
-  text("nicholasroubal@gmail.com\nwebsite wip :-)", 0.5 * width , 0.5 * height);
+  text("nicholasroubal@gmail.com\nwebsite wip", 0.5 * width , 0.5 * height);
 
 }
 
